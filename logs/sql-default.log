@@ -1,0 +1,27 @@
+
+2023/09/27 10:24:01 [32mE:/cz/GOPATH/web-tpl/app/http/controllers/home/index.go:27
+[0m[33m[1.490ms] [34;1m[rows:5][0m SELECT * FROM `user` WHERE `user`.`deleted_at` IS NULL
+
+2023/09/27 10:24:08 [32mE:/cz/GOPATH/web-tpl/app/http/controllers/home/index.go:27
+[0m[33m[1.054ms] [34;1m[rows:5][0m SELECT * FROM `user` WHERE `user`.`deleted_at` IS NULL
+
+2024/01/08 23:14:07 [32mF:/go-project/GOPATH/web-tpl/app/http/controllers/user/user.go:13
+[0m[33m[0.509ms] [34;1m[rows:0][0m SELECT * FROM `user` WHERE `user`.`deleted_at` IS NULL
+
+2024/01/08 23:15:50 [32mF:/go-project/GOPATH/web-tpl/app/http/controllers/user/user.go:14
+[0m[33m[0.525ms] [34;1m[rows:0][0m SELECT * FROM `user` WHERE `user`.`deleted_at` IS NULL
+
+2024/01/08 23:17:36 [32mF:/go-project/GOPATH/web-tpl/app/http/controllers/user/user.go:13
+[0m[33m[6.441ms] [34;1m[rows:3][0m SELECT * FROM `user` WHERE `user`.`deleted_at` IS NULL
+
+2024/01/08 23:31:38 [32mF:/go-project/GOPATH/web-tpl/app/http/controllers/user/user.go:13
+[0m[33m[0.000ms] [34;1m[rows:3][0m SELECT * FROM `user` WHERE `user`.`deleted_at` IS NULL
+
+2024/01/08 23:32:06 [32mF:/go-project/GOPATH/web-tpl/app/http/controllers/user/user.go:13
+[0m[33m[0.842ms] [34;1m[rows:3][0m SELECT * FROM `user` WHERE `user`.`deleted_at` IS NULL
+
+2024/01/08 23:32:08 [32mF:/go-project/GOPATH/web-tpl/app/http/controllers/user/user.go:13
+[0m[33m[0.532ms] [34;1m[rows:3][0m SELECT * FROM `user` WHERE `user`.`deleted_at` IS NULL
+
+2024/01/08 23:32:09 [32mF:/go-project/GOPATH/web-tpl/app/http/controllers/user/user.go:13
+[0m[33m[0.755ms] [34;1m[rows:3][0m SELECT * FROM `user` WHERE `user`.`deleted_at` IS NULL
